@@ -34,11 +34,12 @@
  },
  {
   "id": "S3",
-  "day": "2026-11-15",
+  "day": "2026-11-20",
   "file": "solae_S3.mp4",
   "caption": "Save this before your next Ulta run 🥰 #syntheticperformer #ad #antiaging #over50skincare",
   "dur": 101.1,
-  "fb_type": "post"
+  "fb_type": "post",
+  "time": "19:30"
  },
  {
   "id": "V03-NR",
@@ -106,7 +107,7 @@
  },
  {
   "id": "N1",
-  "day": "2026-11-14",
+  "day": "2026-11-19",
   "time": "19:30",
   "file": "solae_N1.mp4",
   "caption": "Save this for your next Target run 🥰 #syntheticperformer #ad #antiaging #over50skincare",
@@ -122,7 +123,7 @@
  },
  {
   "id": "N2",
-  "day": "2026-11-15",
+  "day": "2026-11-21",
   "time": "19:30",
   "file": "solae_N2.mp4",
   "caption": "Which one would you rebuy first? 🥰 #syntheticperformer #ad #antiaging #over50skincare",
@@ -245,7 +246,7 @@
  },
  {
   "id": "K1",
-  "day": "2026-11-19",
+  "day": "2026-11-14",
   "time": "19:30",
   "file": "solae_K1.mp4",
   "caption": "Wait for the last one 🥰 #syntheticperformer #ad #antiaging #over50skincare",
@@ -254,7 +255,7 @@
  },
  {
   "id": "K2",
-  "day": "2026-11-20",
+  "day": "2026-11-15",
   "time": "19:30",
   "file": "solae_K2.mp4",
   "caption": "I saved the best one for last 🥰 #syntheticperformer #ad #antiaging #over50skincare",
@@ -284,5 +285,14 @@
   "file": "solae_R17.mp4",
   "caption": "Comment “YES” for more recipes like this ❤️ #usa #health #syntheticperformer",
   "dur": 32.9
+ },
+ {
+  "id": "G1",
+  "day": "2026-11-15",
+  "time": "11:30",
+  "file": "solae_G1.mp4",
+  "caption": "5 cheap Walmart finds that beat expensive procedures ✨ #syntheticperformer #ad #antiaging #over50skincare",
+  "dur": 111.1,
+  "fb_type": "post"
  }
 ]
